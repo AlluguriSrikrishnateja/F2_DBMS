@@ -67,11 +67,16 @@ SQL QUERY:
 
 
 
-alter table student add department varchar(4);
+alter table student add department varchar(10);
 
 
 
 OUTPUT:
+
+
+<img width="623" alt="image" src="https://github.com/AlluguriSrikrishnateja/F2_DBMS/assets/118343892/06af2051-da64-49cd-ad2c-495aeab4cbed">
+
+
 
 
 3) Drop the student table
