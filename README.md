@@ -102,7 +102,7 @@ OUTPUT:
 SQL QUERY:
 
 
-  truncate table student;
+  truncate table mystudent;
 
 
   
@@ -118,9 +118,17 @@ OUTPUT:
 
 SQL QUERY:
 
-  rename table student to mystudent;
+  rename student to mystudent;
 
 OUTPUT:
+
+
+<img width="383" alt="image" src="https://github.com/AlluguriSrikrishnateja/F2_DBMS/assets/118343892/8b5b3f3a-add8-489e-ba3d-3ff163c195c6">
+
+
+# RESULT: 
+
+Creating a student table and executing the DDL queries using SQL was successfully executed.
 
 
 
