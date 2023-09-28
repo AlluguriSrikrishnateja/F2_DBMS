@@ -91,6 +91,11 @@ SQL QUERY:
            
 OUTPUT:
 
+<img width="295" alt="image" src="https://github.com/AlluguriSrikrishnateja/F2_DBMS/assets/118343892/43100b74-7a5d-4ae4-9eb2-efe05e2aaa0a">
+
+
+
+
 
 4) Delete the student table using truncate keyword
 
