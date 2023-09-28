@@ -76,30 +76,37 @@ OUTPUT:
 
 3) Drop the student table
 
-drop table student;
-
 
 SQL QUERY:
 
+
+   drop table student;
+
+
+           
 OUTPUT:
 
 
 4) Delete the student table using truncate keyword
 
-
-truncate table student;
-
-
-
 SQL QUERY:
 
+
+  truncate table student;
 
 OUTPUT:
 
 
 5) Rename the student table to mystudent
 
-rename table student mystudent;
+SQL QUERY:
+
+  rename table student to mystudent;
+
+OUTPUT:
+
+
+
 
 
 
