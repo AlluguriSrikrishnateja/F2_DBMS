@@ -104,7 +104,14 @@ SQL QUERY:
 
   truncate table student;
 
+
+  
+
 OUTPUT:
+
+
+<img width="286" alt="image" src="https://github.com/AlluguriSrikrishnateja/F2_DBMS/assets/118343892/eed2ba30-2769-44cf-9fa5-b264aed25cd5">
+
 
 
 5) Rename the student table to mystudent
