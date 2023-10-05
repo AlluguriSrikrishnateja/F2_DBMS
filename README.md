@@ -128,7 +128,7 @@ OUTPUT:
 
 # RESULT: 
 
-Creating a student table and executing the DDL queries using SQL was successfully executed.
+The student table is created and the name is changed to according to the given question as the mystudent.
 
 
 
